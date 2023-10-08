@@ -1,0 +1,14 @@
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-explorando-desafio - Copia - .net 7\bin\Debug\net7.0\trilha-net-explorando-desafio  - .net 7 copia.exe
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-explorando-desafio - Copia - .net 7\bin\Debug\net7.0\trilha-net-explorando-desafio  - .net 7 copia.deps.json
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-explorando-desafio - Copia - .net 7\bin\Debug\net7.0\trilha-net-explorando-desafio  - .net 7 copia.runtimeconfig.json
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-explorando-desafio - Copia - .net 7\bin\Debug\net7.0\trilha-net-explorando-desafio  - .net 7 copia.dll
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-explorando-desafio - Copia - .net 7\bin\Debug\net7.0\trilha-net-explorando-desafio  - .net 7 copia.pdb
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-explorando-desafio - Copia - .net 7\obj\Debug\net7.0\trilha-net-explorando-desafio  - .net 7 copia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-explorando-desafio - Copia - .net 7\obj\Debug\net7.0\trilha-net-explorando-desafio  - .net 7 copia.AssemblyInfoInputs.cache
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-explorando-desafio - Copia - .net 7\obj\Debug\net7.0\trilha-net-explorando-desafio  - .net 7 copia.AssemblyInfo.cs
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-explorando-desafio - Copia - .net 7\obj\Debug\net7.0\trilha-net-explorando-desafio  - .net 7 copia.csproj.CoreCompileInputs.cache
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-explorando-desafio - Copia - .net 7\obj\Debug\net7.0\trilha-net-explorando-desafio  - .net 7 copia.dll
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-explorando-desafio - Copia - .net 7\obj\Debug\net7.0\refint\trilha-net-explorando-desafio  - .net 7 copia.dll
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-explorando-desafio - Copia - .net 7\obj\Debug\net7.0\trilha-net-explorando-desafio  - .net 7 copia.pdb
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-explorando-desafio - Copia - .net 7\obj\Debug\net7.0\trilha-net-explorando-desafio  - .net 7 copia.genruntimeconfig.cache
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-explorando-desafio - Copia - .net 7\obj\Debug\net7.0\ref\trilha-net-explorando-desafio  - .net 7 copia.dll
